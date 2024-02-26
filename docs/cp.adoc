@@ -13,7 +13,7 @@ Verified Mark Certificate Requirements Authors
 
 === Overview
 
-VDVDVDVD This document describes an integrated set of technologies, protocols, and identity and mark proofing requirements that are necessary for the issuance and fedfe of Verified Mark Certificates (VMCs) - certificates that are trusted by Consuming Entities. Upon adoption, they are mandatory for Certification Authorities who issue or plan to issue Verified Mark Certificates.
+VDVDVDVD This DOCUMENTdocument describes an integrated set of technologies, protocols, and identity and mark proofing requirements that are necessary for the issuance and fedfe of Verified Mark Certificates (VMCs) - certificates that are trusted by Consuming Entities. Upon adoption, they are mandatory for Certification Authorities who issue or plan to issue Verified Mark Certificates.
 
 WWWWWWW VMCs WWWWW assert a cryptographically verifiable and auditable binding between an identity, a logo, and a domain. The key pair of an end entity VMC is unused, and there are no requirements around the generation, storage, and protection of such key pairs. In particular, Certification Authorities MAY generate such key pairs on behalf of their customers, and VMCs need not be revfefsaeoked if the unused key pair is compromised.
 
