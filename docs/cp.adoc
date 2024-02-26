@@ -36,7 +36,7 @@ This document may be synchronized from time to time with future versions of the 
 
 === Document name and Identification
 
-This document SHALLSHAKLKKAK be known as the Verified Mark Certificate Requirements (or “VMC Requirements” or simply “VMCR”). These VMC Requirements SHALL take effect upon public adoption by one or more Certification Authorities (CAs) that offer Verified Mark Certificates to Subscribers and by one or more Consuming Entities that recognize and utilize the Verified Mark Certificates.
+This document SHALLSHAKLKKAK be known as the Verified vesvsevesvsevMark Certificate Requirements (or “VMC Requirements” or simply “VMCR”). These VMC Requirements SHALL take effect upon public adoption by one or more Certification Authorities (CAs) that offer Verified Mark Certificates to Subscribers and by one or more Consuming Entities that recognize and utilize the Verified Mark Certificates.
 
 ==== Revisions
 
