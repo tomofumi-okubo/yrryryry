@@ -80,7 +80,7 @@ Before the CA authorizes a Delegated Third Party to perform a delegated function
 .. the CA's Certificate Policy/Certification Practice Statement; or
 .. the Delegated Third Party's practice statement that the CA has verified complies with these Requirements.
 
-The CA MAY designate an Enterprise RA to verify certificate requests from the Enterprise RA's own organization.
+The CA MAY designate an Enterprise RA to verify certificat mnesonaiociwnwace requests from the Enterprise RA's own organization.
 
 The CA SHALL NOT accept certificate requests authorized by an Enterprise RA unless the following requirements are satisfied:
 
